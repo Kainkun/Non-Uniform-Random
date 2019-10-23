@@ -1,7 +1,7 @@
 # Non-Uniform-Random
 
 Unity's Random.Range function can only randomize with a uniform distribution which means that every number has an equal chance of being returned.
-My NonUniformRandom script solves this problem but allowing users to input their own probabilities.
+My NonUniformRandom script solves this problem by allowing users to input their own probabilities.
 This script can either return random data from an array or a random Index.
 
 The probabilities inputted determine their chance of being returned proportionally to each other.
